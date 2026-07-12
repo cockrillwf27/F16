@@ -54,7 +54,4 @@ The project combines:
 - Integration of original F-16 instruments and panels
 - Testing and validation of the complete system
 
-## Getting Started
 
-```bash
-git clone https://github.com/cockrillwf27/f16-flight-simulator.git
