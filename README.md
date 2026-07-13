@@ -4,6 +4,10 @@
 
 **Status**: Early Development / In Progress
 
+<p align="left">
+  <img src="figures/f16.jpg" width="400">
+</p>
+
 ## Overview
 
 This project involves acquiring, restoring, and upgrading a surplus F-16 cockpit trainer originally used by the U.S. Air Force. The goal is to transform it into a high-fidelity flight simulator capable of running modern flight dynamics models while interfacing with real cockpit hardware (controls, instruments, and avionics panels).
