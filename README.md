@@ -5,7 +5,7 @@
 **Status**: Early Development / In Progress
 
 <p align="left">
-  <img src="figures/f16.jpg" width="400">
+  <img src="figures/f16.jpg" width="700">
 </p>
 
 ## Overview
